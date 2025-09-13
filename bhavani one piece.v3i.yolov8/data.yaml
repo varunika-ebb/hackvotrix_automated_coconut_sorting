@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['cracked-coconut', 'good']
+
+roboflow:
+  workspace: sindhuja-p1vtj
+  project: bhavani-one-piece-sxrkq
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sindhuja-p1vtj/bhavani-one-piece-sxrkq/dataset/3
